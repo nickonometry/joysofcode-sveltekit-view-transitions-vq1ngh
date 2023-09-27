@@ -1,0 +1,1438 @@
+[
+  {
+    "applicationName": "ACFR Statement Builder2",
+    "applicationID": "ACFRStatementBuilder2",
+    "label": "ACFR Statement Builder",
+    "helpText": "Develop and publish annual comprehensive financial report",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/standard/build.svg",
+      "name": "ACFR Statement Builder   Icon"
+    },
+    "uri": "https://www.google.com/search?q=ACFRStatementBuilder",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Administration & Support2",
+    "applicationID": "AdministrationSupport2",
+    "label": "Administration & Support",
+    "helpText": "Automate and track correspondence",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/standard/headset_mic.svg",
+      "name": "Administration & Support Icon"
+    },
+    "uri": "https://www.google.com/search?q=AdministrationSupport",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Agency Intelligence2",
+    "applicationID": "AgencyIntelligence2",
+    "label": "Agency Intelligence",
+    "helpText": "Collect, analyze and act on multiple data sets ",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/extended/brain.svg",
+      "name": " Agency Intelligence  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=AgencyIntelligence",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "AP Automation2",
+    "applicationID": "APAutomation2",
+    "label": "AP Automation",
+    "helpText": "AP Automation",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/extended/source_branch_refresh.svg",
+      "name": "AP Automation  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=APAutomation",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Application Platform2",
+    "applicationID": "ApplicationPlatform2",
+    "label": "Application Platform",
+    "helpText": "Low-code application development platform",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/standard/code.svg",
+      "name": " Application Platform  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=ApplicationPlatform",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Assessment & Tax Plus2",
+    "applicationID": "AssessmentTaxPlus2",
+    "label": "Assessment & Tax Plus",
+    "helpText": "Complete solution from appraisal through tax collection",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/standard/calculate.svg",
+      "name": "Assessment & Tax Plus  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=AssessmentTaxPlus",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Assessment & Tax Pro2",
+    "applicationID": "AssessmentTaxPro2",
+    "label": "Assessment & Tax Pro",
+    "helpText": "Integrated solution from appraisal through tax collection",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/standard/calculate.svg",
+      "name": "Assessment & Tax Pro  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=AssessmentTaxPro",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Assets Mobile2",
+    "applicationID": "AssetsMobile2",
+    "label": "Assets Mobile",
+    "helpText": "Mobile asset solution integrated with Enterprise ERP",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Assets Mobile  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=AssetsMobile",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "CA Valuation2",
+    "applicationID": "CAValuation2",
+    "label": "CA Valuation",
+    "helpText": "California-specific valuation solution",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/standard/calculate.svg",
+      "name": " CA Valuation  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=CAValuation",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Cannabis Licensing2",
+    "applicationID": "CannabisLicensing2",
+    "label": "Cannabis Licensing",
+    "helpText": "Integrated solution from licensing through registration",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/extended/cannabis.svg",
+      "name": "Cannabis Licensing  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=CannabisLicensing",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Cashiering2",
+    "applicationID": "Cashiering2",
+    "label": "Cashiering",
+    "helpText": "Payment collection via a variety of devices integrated with Tyler solutions",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/extended/account_cash.svg",
+      "name": "Cashiering  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=Cashiering",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Civil Process2",
+    "applicationID": "CivilProcess2",
+    "label": "Civil Process",
+    "helpText": "Complete solution from document receipt through payment and final closeout",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/extended/math_compass.svg",
+      "name": "Civil Process  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=CivilProcess",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Content Hosting2",
+    "applicationID": "ContentHosting2",
+    "label": "Content Hosting",
+    "helpText": "Status and communications solution",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/extended/file_cloud_outline.svg",
+      "name": "Content Hosting  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=ContentHosting",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Content Manager2",
+    "applicationID": "ContentManager2",
+    "label": "Content Manager",
+    "helpText": "Capture, deliver, manage, and archive electronic information in Tyler solutions",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/extended/usb_flash_drive.svg",
+      "name": "Content Manager  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=ContentManager",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Cybersecurity Services2",
+    "applicationID": "CybersecurityServices2",
+    "label": "Cybersecurity Services",
+    "helpText": "Uncover and identify suspicious activity across your network",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/standard/security.svg",
+      "name": "Cybersecurity Services  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=CybersecurityServices",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Data & Insights2",
+    "applicationID": "DataInsights2",
+    "label": "Data & Insights",
+    "helpText": "Data discovery, access and collaboration with a variety of stakeholders",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/extended/chart_areaspline.svg",
+      "name": "Data & Insights   Icon"
+    },
+    "uri": "https://www.google.com/search?q=DataInsights",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Data Collect Mobile2",
+    "applicationID": "DataCollectMobile2",
+    "label": "Data Collect Mobile",
+    "helpText": "Collect data in the field as part of an overall workflow",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/standard/account_tree.svg",
+      "name": "Data Collect Mobile  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=DataCollectMobile",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Disability & Benefits2",
+    "applicationID": "DisabilityBenefits2",
+    "label": "Disability & Benefits",
+    "helpText": "Track disability cases from receipt through disposition",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/standard/wheelchair_pickup.svg",
+      "name": "Disability & Benefits  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=DisabilityBenefits",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Eagle Vitals2",
+    "applicationID": "EagleVitals2",
+    "label": "Eagle Vitals",
+    "helpText": "Eagle Vitals",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Eagle Vitals  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=EagleVitals",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "eCertify2",
+    "applicationID": "eCertify2",
+    "label": "eCertify",
+    "helpText": "eCertify",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "eCertify  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=eCertify",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "eFile & Serve2",
+    "applicationID": "eFileServe2",
+    "label": "eFile & Serve",
+    "helpText": "Court filing for self-represented litigants",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/standard/drive_file_move.svg",
+      "name": "eFile & Serve  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=eFileServe",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Electronic Monitoring2",
+    "applicationID": "ElectronicMonitoring2",
+    "label": "Electronic Monitoring",
+    "helpText": "Monitoring solution to increase client compliance and reduce recidivism",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Electronic Monitoring  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=ElectronicMonitoring",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Electronic Warrants2",
+    "applicationID": "ElectronicWarrants2",
+    "label": "Electronic Warrants",
+    "helpText": "Submit and process warrant requests any time, day or night",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/extended/certificate.svg",
+      "name": "Electronic Warrants  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=ElectronicWarrants",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Employee Access2",
+    "applicationID": "EmployeeAccess2",
+    "label": "Employee Access",
+    "helpText": "Employee Access",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/extended/account_network.svg",
+      "name": "Employee Access Icon"
+    },
+    "uri": "https://www.google.com/search?q=EmployeeAccess",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Energov CSS2",
+    "applicationID": "EnergovCSS2",
+    "label": "Energov CSS",
+    "helpText": "Energov CSS",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Energov CSS  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=EnergovCSS",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Enforcement Mobile2",
+    "applicationID": "EnforcementMobile2",
+    "label": "Enforcement Mobile",
+    "helpText": "Complete solution for law enforcement in the field",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Enforcement Mobile  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=EnforcementMobile",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Engagement Builder2",
+    "applicationID": "EngagementBuilder2",
+    "label": "Engagement Builder",
+    "helpText": "Engagement Builder (temp)",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Engagement Builder  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=EngagementBuilder",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Enterprise Assessment & Tax2",
+    "applicationID": "EnterpriseAssessmentTax2",
+    "label": "Enterprise Assessment & Tax",
+    "helpText": "Complete solution from appraisal through tax collection",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/standard/calculate.svg",
+      "name": "Enterprise Assessment & Tax  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=EnterpriseAssessmentTax",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Enterprise Asset Management2",
+    "applicationID": "EnterpriseAssetManagement2",
+    "label": "Enterprise Asset Management",
+    "helpText": "Manage physical assets and work management",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Enterprise Asset Management  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=EnterpriseAssetManagement",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Enterprise Corrections2",
+    "applicationID": "EnterpriseCorrections2",
+    "label": "Enterprise Corrections",
+    "helpText": "Complete solution from booking through re-entry",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/extended/handcuffs.svg",
+      "name": "Enterprise Corrections  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=EnterpriseCorrections",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Enterprise ERP2",
+    "applicationID": "EnterpriseERP2",
+    "label": "Enterprise ERP",
+    "helpText": "Complete enterprise resource planning solutions",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Enterprise ERP  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=EnterpriseERP",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Enterprise Forms2",
+    "applicationID": "EnterpriseForms2",
+    "label": "Enterprise Forms",
+    "helpText": "Create and maintain forms",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Enterprise Forms  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=EnterpriseForms",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Enterprise Jury Manager2",
+    "applicationID": "EnterpriseJuryManager2",
+    "label": "Enterprise Jury Manager",
+    "helpText": "Complete jury management solution from summons through disposition",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/standard/gavel.svg",
+      "name": "Enterprise Jury Manager  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=EnterpriseJuryManager",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Enterprise Justice2",
+    "applicationID": "EnterpriseJustice2",
+    "label": "Enterprise Justice",
+    "helpText": "Complete case management solution for county courts through statewide systems",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/standard/account_balance.svg",
+      "name": "Enterprise Justice  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=EnterpriseJustice",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Enterprise Permitting & Licensing2",
+    "applicationID": "EnterprisePermittingLicensing2",
+    "label": "Enterprise Permitting & Licensing",
+    "helpText": "Complete community development solution from permitting, planning, code enforcement and licensing",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Enterprise Permitting & Licensing  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=EnterprisePermittingLicensing",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Enterprise Public Safety2",
+    "applicationID": "EnterprisePublicSafety2",
+    "label": "Enterprise Public Safety",
+    "helpText": "Complete public safety solution from dispatch through reporting",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Enterprise Public Safety  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=EnterprisePublicSafety",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Enterprise Service Requests2",
+    "applicationID": "EnterpriseServiceRequests2",
+    "label": "Enterprise Service Requests",
+    "helpText": "Integrated solution for non-emergency inquiries and complaints",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/standard/report_problem.svg",
+      "name": "Enterprise Service Requests  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=EnterpriseServiceRequests",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Enterprise State Regulatory2",
+    "applicationID": "EnterpriseStateRegulatory2",
+    "label": "Enterprise State Regulatory",
+    "helpText": "Enterprise State Regulatory (temp)",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Enterprise State Regulatory  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=EnterpriseStateRegulatory",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Enterprise Supervision2",
+    "applicationID": "EnterpriseSupervision2",
+    "label": "Enterprise Supervision",
+    "helpText": "Complete solution to manage, track and share case information across agencies",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Enterprise Supervision  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=EnterpriseSupervision",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "ERP Pro2",
+    "applicationID": "ERPPro2",
+    "label": "ERP Pro",
+    "helpText": "Integrated enterprise resource planning solutions",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "ERP Pro  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=ERPPro",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Fire Prevention Mobile2",
+    "applicationID": "FirePreventionMobile2",
+    "label": "Fire Prevention Mobile",
+    "helpText": "Mobile field inspection and fire prevention solution",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/extended/fire_extinguisher.svg",
+      "name": "Fire Prevention Mobile  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=FirePreventionMobile",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Gov2Go2",
+    "applicationID": "Gov2Go2",
+    "label": "Gov2Go",
+    "helpText": "Resident engagement services platform",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Gov2Go  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=Gov2Go",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Guide & File2",
+    "applicationID": "GuideFile2",
+    "label": "Guide & File",
+    "helpText": "Guide & File",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Guide & File  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=GuideFile",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Hub2",
+    "applicationID": "Hub2",
+    "label": "Hub",
+    "helpText": "Role-based dashboard for job functions, processes and tasks",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/standard/dashboard.svg",
+      "name": "Hub  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=Hub",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Inventory Mobile2",
+    "applicationID": "InventoryMobile2",
+    "label": "Inventory Mobile",
+    "helpText": "Mobile inventory management solution",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/extended/checklist.svg",
+      "name": "Inventory Mobile  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=InventoryMobile",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Investigations, Audits, & Counsel2",
+    "applicationID": "Investigations,Audits,Counsel2",
+    "label": "Investigations, Audits, & Counsel",
+    "helpText": "Case management solution for managing investigation and audit workflow",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Investigations, Audits, & Counsel  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=Investigations,Audits,Counsel",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Medical Cannabis Regulation2",
+    "applicationID": "MedicalCannabisRegulation2",
+    "label": "Medical Cannabis Regulation",
+    "helpText": "Complete solution for managing investigation and audit workflow",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/extended/cannabis.svg",
+      "name": "Medical Cannabis Regulation  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=MedicalCannabisRegulation",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Meeting Manager2",
+    "applicationID": "MeetingManager2",
+    "label": "Meeting Manager",
+    "helpText": "Meeting Manager",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Meeting Manager  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=MeetingManager",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Motor Vehicle Services2",
+    "applicationID": "MotorVehicleServices2",
+    "label": "Motor Vehicle Services",
+    "helpText": "Motor Vehicle Services (temp)",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Motor Vehicle Services  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=MotorVehicleServices",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Municipal Jury Manager2",
+    "applicationID": "MunicipalJuryManager2",
+    "label": "Municipal Jury Manager",
+    "helpText": "Integrated jury management solution from summons through disposition",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Municipal Jury Manager  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=MunicipalJuryManager",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Municipal Justice2",
+    "applicationID": "MunicipalJustice2",
+    "label": "Municipal Justice",
+    "helpText": "Integrated case management solution for municipal courts",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/standard/account_balance.svg",
+      "name": "Municipal Justice  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=MunicipalJustice",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Munis Citizen Self Service2",
+    "applicationID": "MunisCitizenSelfService2",
+    "label": "Munis Citizen Self Service",
+    "helpText": "Munis Citizen Self Service",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Munis Citizen Self Service  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=MunisCitizenSelfService",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Munis Employee Self Service2",
+    "applicationID": "MunisEmployeeSelfService2",
+    "label": "Munis Employee Self Service",
+    "helpText": "Munis Employee Self Service",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Munis Employee Self Service  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=MunisEmployeeSelfService",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Munis Mobile2",
+    "applicationID": "MunisMobile2",
+    "label": "Munis Mobile",
+    "helpText": "Munis Mobile",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Munis Mobile  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=MunisMobile",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Munis Open API2",
+    "applicationID": "MunisOpenAPI2",
+    "label": "Munis Open API",
+    "helpText": "Munis Open API",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Munis Open API  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=MunisOpenAPI",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Munis Vendor Self Service2",
+    "applicationID": "MunisVendorSelfService2",
+    "label": "Munis Vendor Self Service",
+    "helpText": "Munis Vendor Self Service",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Munis Vendor Self Service  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=MunisVendorSelfService",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "My Civic2",
+    "applicationID": "MyCivic2",
+    "label": "My Civic",
+    "helpText": "Resident engagement mobile app ",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "My Civic  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=MyCivic",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "My View2",
+    "applicationID": "MyView2",
+    "label": "My View",
+    "helpText": "My View",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "My View Icon"
+    },
+    "uri": "https://www.google.com/search?q=MyView",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Navigator2",
+    "applicationID": "Navigator2",
+    "label": "Navigator",
+    "helpText": "Navigator",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/custom/decision_tree.svg",
+      "name": "Navigator  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=Navigator",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Navigator Lite2",
+    "applicationID": "NavigatorLite2",
+    "label": "Navigator Lite",
+    "helpText": "Navigator Lite",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Navigator Lite  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=NavigatorLite",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "New World ERP2",
+    "applicationID": "NewWorldERP2",
+    "label": "New World ERP",
+    "helpText": "New World ERP",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "New World ERP  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=NewWorldERP",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Notify2",
+    "applicationID": "Notify2",
+    "label": "Notify",
+    "helpText": "Notify",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/standard/notifications.svg",
+      "name": "Notify  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=Notify",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Onboard iPaaS2",
+    "applicationID": "OnboardiPaaS2",
+    "label": "Onboard iPaaS",
+    "helpText": "Onboard iPaaS",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Onboard iPaaS  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=OnboardiPaaS",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Online Dispute Resolution2",
+    "applicationID": "OnlineDisputeResolution2",
+    "label": "Online Dispute Resolution",
+    "helpText": "Online Dispute Resolution",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Online Dispute Resolution  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=OnlineDisputeResolution",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Outdoor Licensing2",
+    "applicationID": "OutdoorLicensing2",
+    "label": "Outdoor Licensing",
+    "helpText": "Outdoor Licensing",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Outdoor Licensing  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=OutdoorLicensing",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Parks & Recreation2",
+    "applicationID": "ParksRecreation2",
+    "label": "Parks & Recreation",
+    "helpText": "Parks & Recreation",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Parks & Recreation  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=ParksRecreation",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Payments2",
+    "applicationID": "Payments2",
+    "label": "Payments",
+    "helpText": "Payments",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Payments  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=Payments",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Prescription Drug Monitoring Platform2",
+    "applicationID": "PrescriptionDrugMonitoringPlatform2",
+    "label": "Prescription Drug Monitoring Platform",
+    "helpText": "Prescription Drug Monitoring Platform",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/standard/medical_services.svg",
+      "name": "Prescription Drug Monitoring Platform  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=PrescriptionDrugMonitoringPlatform",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Public Commission Oversight2",
+    "applicationID": "PublicCommissionOversight2",
+    "label": "Public Commission Oversight",
+    "helpText": "Public Commission Oversight",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Public Commission Oversight  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=PublicCommissionOversight",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Public Safety Pro2",
+    "applicationID": "PublicSafetyPro2",
+    "label": "Public Safety Pro",
+    "helpText": "Public Safety Pro",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Public Safety Pro  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=PublicSafetyPro",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Records Management2",
+    "applicationID": "RecordsManagement2",
+    "label": "Records Management",
+    "helpText": "Records Management",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Records Management  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=RecordsManagement",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Recreation Management2",
+    "applicationID": "RecreationManagement2",
+    "label": "Recreation Management",
+    "helpText": "Recreation Management",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Recreation Management  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=RecreationManagement",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Resident Access2",
+    "applicationID": "ResidentAccess2",
+    "label": "Resident Access",
+    "helpText": "Resident Access",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Resident Access  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=ResidentAccess",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Resident Resources2",
+    "applicationID": "ResidentResources2",
+    "label": "Resident Resources",
+    "helpText": "Resident Resources",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Resident Resources  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=ResidentResources",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "School ERP Pro2",
+    "applicationID": "SchoolERPPro2",
+    "label": "School ERP Pro",
+    "helpText": "School ERP Pro",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "School ERP Pro  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=SchoolERPPro",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Search Service2",
+    "applicationID": "SearchService2",
+    "label": "Search Service",
+    "helpText": "Search Service",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Search Service Icon"
+    },
+    "uri": "https://www.google.com/search?q=SearchService",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Service Access Requests2",
+    "applicationID": "ServiceAccessRequests2",
+    "label": "Service Access Requests",
+    "helpText": "Service Access Requests",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Service Access Requests  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=ServiceAccessRequests",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Spatial2",
+    "applicationID": "Spatial2",
+    "label": "Spatial",
+    "helpText": "Spatial",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Spatial Icon"
+    },
+    "uri": "https://www.google.com/search?q=Spatial",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "State Regulatory Digital Solutions2",
+    "applicationID": "StateRegulatoryDigitalSolutions2",
+    "label": "State Regulatory Digital Solutions",
+    "helpText": "State Regulatory Digital Solutions",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "State Regulatory Digital Solutions  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=StateRegulatoryDigitalSolutions",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "State Regulatory Platform2",
+    "applicationID": "StateRegulatoryPlatform2",
+    "label": "State Regulatory Platform",
+    "helpText": "State Regulatory Platform",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "State Regulatory Platform  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=StateRegulatoryPlatform",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Student Transportation2",
+    "applicationID": "StudentTransportation2",
+    "label": "Student Transportation",
+    "helpText": "Student Transportation",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/extended/bus.svg",
+      "name": "Student Transportation  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=StudentTransportation",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Time & Attendance2",
+    "applicationID": "TimeAttendance2",
+    "label": "Time & Attendance",
+    "helpText": "Time & Attendance",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/extended/calendar_clock.svg",
+      "name": "Time & Attendance  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=TimeAttendance",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Tyler Drive2",
+    "applicationID": "TylerDrive2",
+    "label": "Tyler Drive",
+    "helpText": "Tyler Drive",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg/extended/bus_marker.svg",
+      "name": "Tyler Drive  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=TylerDrive",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Tyler Intelligence Services2",
+    "applicationID": "TylerIntelligenceServices2",
+    "label": "Tyler Intelligence Services",
+    "helpText": "Tyler Intelligence Services",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Tyler Intelligence Services  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=TylerIntelligenceServices",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Vendor Access2",
+    "applicationID": "VendorAccess2",
+    "label": "Vendor Access",
+    "helpText": "Vendor Access",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Vendor Access Icon"
+    },
+    "uri": "https://www.google.com/search?q=VendorAccess",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Virtual Court2",
+    "applicationID": "VirtualCourt2",
+    "label": "Virtual Court",
+    "helpText": "Virtual Court",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Virtual Court Icon"
+    },
+    "uri": "https://www.google.com/search?q=VirtualCourt",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Virtual Gov2",
+    "applicationID": "VirtualGov2",
+    "label": "Virtual Gov",
+    "helpText": "Virtual Gov",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Virtual Gov Icon"
+    },
+    "uri": "https://www.google.com/search?q=VirtualGov",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Workflow2",
+    "applicationID": "Workflow2",
+    "label": "Workflow",
+    "helpText": "Workflow",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Workflow Icon"
+    },
+    "uri": "https://www.google.com/search?q=Workflow",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationName": "Workforce Case Management2",
+    "applicationID": "WorkforceCaseManagement2",
+    "label": "Workforce Case Management",
+    "helpText": "Workforce Case Management",
+    "icon": {
+      "type": "image",
+      "uri": "https://cdn.forge.tylertech.com/v1/icons/svg//.svg",
+      "name": "Workforce Case Management  \r\n Icon"
+    },
+    "uri": "https://www.google.com/search?q=WorkforceCaseManagement",
+    "action": "Main",
+    "category": "Launcher",
+    "priority": 0,
+    "product": "Product Reg Demo"
+  },
+  {
+    "applicationID": "tcp-admincenter",
+    "label": "Admin Center",
+    "helpText": "Your central hub for administration of your organization.",
+    "icon": {
+      "type": "icon",
+      "name": "settings"
+    },
+    "uri": "https://tylertown-admin.tcpci.com/org/admin-center",
+    "priority": 9001,
+    "product": "Portico"
+  }
+]
